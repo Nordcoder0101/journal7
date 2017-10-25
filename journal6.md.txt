@@ -1,0 +1,10 @@
+#
+Day 7 Journal
+
+I spent about 8 hours working on my code yesterday and I feel like I made no progress.  I was able to make a object constructor
+fairly easily, and I feel like I could make objects all day long.  Where I am having the biggest challenge is with coordinating 
+all of the pieces together.  Conceptially I know what I want to do, but whether it's syntax or bad logic I am having a hard 
+time making it happen.  
+
+I know I am learning everyday, and usually the day priors class will sink in a little bit, and I am getting better every day.
+As long as I keep learning I am going to stick with it.
